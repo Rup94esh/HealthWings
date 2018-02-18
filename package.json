@@ -1,0 +1,25 @@
+{
+  "name": "healthwings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "express-validator": "^5.0.0",
+    "jsonwebtoken": "^8.1.1",
+    "mongoose": "^5.0.5",
+    "morgan": "^1.9.0",
+    "path": "^0.12.7",
+    "pug": "^2.0.0-rc.4"
+  }
+}
